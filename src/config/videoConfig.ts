@@ -17,15 +17,15 @@ export const videoConfig: Record<string, VideoNode> = {
     question: 'What would you like to learn more about?',
     choices: [
       {
-        text: 'Product Features',
+        text: 'Goldbacks',
         nextVideoId: 'features',
       },
       {
-        text: 'Pricing Plans',
+        text: 'Vaulting Services',
         nextVideoId: 'pricing',
       },
       {
-        text: 'Customer Success Stories',
+        text: 'Bank-like Alternatives',
         nextVideoId: 'success',
       },
     ],
